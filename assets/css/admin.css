@@ -1,0 +1,20 @@
+/* Centered login form */
+.login-card {
+    width: 350px;
+    text-align: center;
+}
+
+/* Dashboard table styling */
+.table th, .table td {
+    vertical-align: middle;
+    text-align: center;
+}
+
+.navbar {
+    padding: 10px;
+}
+
+/* Container for add/edit forms */
+.container {
+    max-width: 600px;
+}
